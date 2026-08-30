@@ -8,8 +8,8 @@ Interested in **AI · Data · Computer Vision · Software Engineering**
 
 ## 🏆 Awards
 
-- **2026 세모톤 AI/SW 융합해커톤 장려상**
-- **제1회 KHUDA 정기학술제 우수상**
+- **2026 세모톤 AI/SW 융합해커톤 장려상**(2026.04)
+- **제1회 KHUDA 정기학술제 우수상**(2026.07)
 
 ---
 
