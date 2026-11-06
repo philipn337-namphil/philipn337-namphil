@@ -2,7 +2,9 @@
 
 🎓 Kyung Hee University, College of Software Convergence
 
-Interested in **AI · Data · Computer Vision · Software Engineering**
+Interested in **AI · Data · Computer Vision · Backend · Cloud Computing · Infrastructure · Product Management**
+
+문제를 정의하는 데서 멈추지 않고, 서비스를 끝까지 만들어 **실제로 배포하고 운영하는 일**에 관심이 있습니다.
 
 ---
 
