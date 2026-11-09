@@ -17,6 +17,7 @@ Interested in **AI · Data · Computer Vision · Backend · Cloud Computing · I
 
 ## 📜 Certifications
 
+- **NCA** — NAVER Cloud Platform Certified Associate, 네이버클라우드 (2026.11)
 - **SQLD** — 제58회 SQL 개발자, 한국데이터산업진흥원 (2025.09)
 - **ADsP** — 제43회 데이터분석 준전문가, 한국데이터산업진흥원 (2024.11)
 - **정보처리기능사** — 한국산업인력공단 (2019.04)
